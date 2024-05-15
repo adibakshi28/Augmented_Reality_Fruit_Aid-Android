@@ -76,7 +76,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/adibakshi28/Augmented_Reality_Learning-Android.git
+    git clone https://github.com/adibakshi28/Augmented_Reality_Learning.git
     ```
 
 2. Open the project in Unity:
@@ -210,4 +210,4 @@ For any inquiries or support, feel free to contact:
 
 [Adibakshi28 - GitHub Profile](https://github.com/adibakshi28)
 
-Project Link: [Augmented Reality Fruit Aid-Android](https://github.com/adibakshi28/Augmented_Reality_Fruit_Aid-Android)
+Project Link: [Augmented Reality Learning](https://github.com/adibakshi28/Augmented_Reality_Learning)
