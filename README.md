@@ -1,6 +1,8 @@
 # Augmented Reality Learning
 
-Augmented Reality Learning is an educational augmented reality app designed to help kids learn about fruits by visualizing them in a fun and interactive way. Developed using the Unity engine, this repository contains all the necessary files and resources to build, run, and modify the app.
+Augmented Reality Learning is an educational Augmented Reality (AR) app designed to help kids learn about fruits by visualizing them in a fun and interactive way. 
+The app aims to explore AR applications in education, offering modes like AR visualization, quizzes, and games. It features high-quality graphics, immersive sound effects, and intuitive controls for an engaging educational experience on Android devices.
+Developed using the Unity engine and Vuforia SDK, the app uses OCR capabilities to scan fruit names and rendering 3D models in real-time. This repository includes all the necessary files and resources to build, run, and modify the app. 
 
 ## Table of Contents
 - [Introduction](#introduction)
