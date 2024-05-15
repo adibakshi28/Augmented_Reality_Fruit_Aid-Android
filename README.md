@@ -27,7 +27,13 @@ Augmented Reality Fruit Aid is an interactive educational app that uses augmente
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/FA1.png" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/FA8.png" alt="Game Screenshot 8" style="width: 32%;">
   <img src="Game%20Screenshot/FA2.png" alt="Game Screenshot 2" style="width: 32%;">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Game%20Screenshot/FA7.png" alt="Game Screenshot 7" style="width: 32%;">
+  <img src="Game%20Screenshot/FA6.png" alt="Game Screenshot 6" style="width: 32%;">
   <img src="Game%20Screenshot/FA3.png" alt="Game Screenshot 3" style="width: 32%;">
 </div>
 
@@ -114,12 +120,6 @@ Players can use the app to learn about fruits in various interactive ways:
 - **Quiz Mode:** Answer questions to test your knowledge about fruits.
 - **Game Mode:** Engage in fun activities related to fruits.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/FA4.png" alt="Game Screenshot 4" style="width: 32%;">
-  <img src="Game%20Screenshot/FA5.png" alt="Game Screenshot 5" style="width: 32%;">
-  <img src="Game%20Screenshot/FA6.png" alt="Game Screenshot 6" style="width: 32%;">
-</div>
-
 ## Controls
 
 - **AR View:** Point your camera at the fruit name to see a 3D model of the fruit.
@@ -166,9 +166,9 @@ Manages the user interface, handling interactions with menus, buttons, and other
 Here are some screenshots of the app:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/FA7.png" alt="Game Screenshot 7" style="width: 32%;">
-  <img src="Game%20Screenshot/FA8.png" alt="Game Screenshot 8" style="width: 32%;">
-  <img src="Game%20Screenshot/FA1.png" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/FA4.png" alt="Game Screenshot 4" style="width: 32%;">
+  <img src="Game%20Screenshot/FA5.png" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Game%20Screenshot/FA6.png" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
 ## Contributing
