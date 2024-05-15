@@ -1,6 +1,6 @@
-# Augmented Reality Fruit Aid
+# Augmented Reality Learning
 
-Augmented Reality Fruit Aid is an educational augmented reality app designed to help kids learn about fruits by visualizing them in a fun and interactive way. Developed using the Unity engine, this repository contains all the necessary files and resources to build, run, and modify the app.
+Augmented Reality Learning is an educational augmented reality app designed to help kids learn about fruits by visualizing them in a fun and interactive way. Developed using the Unity engine, this repository contains all the necessary files and resources to build, run, and modify the app.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -23,7 +23,7 @@ Augmented Reality Fruit Aid is an educational augmented reality app designed to 
 
 ## Introduction
 
-Augmented Reality Fruit Aid is an interactive educational app that uses augmented reality to help kids learn about different fruits. The app allows users to scan fruit names and see 3D models of the fruits, making learning fun and engaging.
+Augmented Reality Learning is an interactive educational app that uses augmented reality to help kids learn about different fruits. The app allows users to scan fruit names and see 3D models of the fruits, making learning fun and engaging.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/FA1.png" alt="Game Screenshot 1" style="width: 32%;">
@@ -76,7 +76,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/adibakshi28/Augmented_Reality_Fruit_Aid-Android.git
+    git clone https://github.com/adibakshi28/Augmented_Reality_Learning-Android.git
     ```
 
 2. Open the project in Unity:
