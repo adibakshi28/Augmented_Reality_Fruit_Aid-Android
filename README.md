@@ -58,7 +58,7 @@ To run and develop this app, you will need the following dependencies:
 ### Steps to Add Dependencies
 
 1. **Unity 3D:** Install Unity Hub and Unity Editor (v5.4).
-2. **Vuforia SDK:** Add Vuforia Engine to your Unity project via the Unity Package Manager.
+2. **Vuforia SDK:** Add Vuforia Engine to your Unity project via the Unity Package Manager (Install the version which has OCR).
 3. **Android SDK:** Configure the Android SDK in Unity Editor settings.
 
 ## Installation
