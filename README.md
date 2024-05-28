@@ -27,15 +27,15 @@ Developed using the Unity engine and Vuforia SDK, the app uses OCR capabilities 
 Augmented Reality Learning is an interactive educational app that uses augmented reality to help kids learn about different fruits. The app allows users to scan fruit names and see 3D models of the fruits, making learning fun and engaging.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/FA1.png" alt="Game Screenshot 1" style="width: 33%;">
-  <img src="Game%20Screenshot/FA8.png" alt="Game Screenshot 8" style="width: 33%;">
-  <img src="Game%20Screenshot/FA2.png" alt="Game Screenshot 2" style="width: 33%;">
+  <img src="Game%20Screenshot/FA1.png" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/FA8.png" alt="Game Screenshot 8" style="width: 32%;">
+  <img src="Game%20Screenshot/FA2.png" alt="Game Screenshot 2" style="width: 32%;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/FA7.png" alt="Game Screenshot 7" style="width: 33%;">
-  <img src="Game%20Screenshot/FA6.png" alt="Game Screenshot 6" style="width: 33%;">
-  <img src="Game%20Screenshot/FA3.png" alt="Game Screenshot 3" style="width: 33%;">
+  <img src="Game%20Screenshot/FA7.png" alt="Game Screenshot 7" style="width: 32%;">
+  <img src="Game%20Screenshot/FA6.png" alt="Game Screenshot 6" style="width: 32%;">
+  <img src="Game%20Screenshot/FA3.png" alt="Game Screenshot 3" style="width: 32%;">
 </div>
 
 ## Features
