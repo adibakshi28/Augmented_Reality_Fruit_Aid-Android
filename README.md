@@ -45,7 +45,7 @@ Augmented Reality Learning is an interactive educational app that uses augmented
 - **Quiz Mode:** Test your knowledge about fruits with a fun quiz.
 - **High-Quality Graphics:** Stunning 3D graphics and animations.
 - **Immersive Sound Effects:** High-quality sound effects to enhance the learning experience.
-- **Cross-Platform:** Built with Unity for easy portability.
+- **Cross-Platform:** Built with Unity.
 
 ## Dependencies
 
